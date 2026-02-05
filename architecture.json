@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_gothic_colonial_aftermath",
+  "title": "The Granite Ward",
+  "tagline": "A fallen Greek family builds their new home upon an ancient foundation that remembers everything.",
+  "target_words": 70000,
+  "actual_words": 69386,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Cultural Displacement & Haunting",
+    "The Architecture of Memory",
+    "Colonial Arrogance vs. Indigenous Knowledge",
+    "Lineage as Burden and Ghost"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Bruised Sea",
+      "words": 2891
+    },
+    {
+      "ch": 2,
+      "title": "The Listening Rock",
+      "words": 2750
+    },
+    {
+      "ch": 3,
+      "title": "Foundations and Stains",
+      "words": 2820
+    },
+    {
+      "ch": 4,
+      "title": "Silas's Ledger",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "The First Dream of Roots",
+      "words": 2680
+    },
+    {
+      "ch": 6,
+      "title": "Thalia's Cough",
+      "words": 2905
+    },
+    {
+      "ch": 7,
+      "title": "A Visit from Port Sebastian",
+      "words": 3010
+    },
+    {
+      "ch": 8,
+      "title": "The Weng'lit Storyteller",
+      "words": 3120
+    },
+    {
+      "ch": 9,
+      "title": "The Quarry's Secret",
+      "words": 2850
+    },
+    {
+      "ch": 10,
+      "title": "Raising the First Wall",
+      "words": 2760
+    },
+    {
+      "ch": 11,
+      "title": "The Ghost in the Granite",
+      "words": 3200
+    },
+    {
+      "ch": 12,
+      "title": "Letters from a Dead Cousin",
+      "words": 2650
+    },
+    {
+      "ch": 13,
+      "title": "The Governor's Bargain",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "Blood in the Cellar",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "The Pattern Grows",
+      "words": 2880
+    },
+    {
+      "ch": 16,
+      "title": "Harvest of Shadows",
+      "words": 2750
+    },
+    {
+      "ch": 17,
+      "title": "The Cornishman's Journal",
+      "words": 3020
+    },
+    {
+      "ch": 18,
+      "title": "What the Trees Drink",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "Thalia's Decision",
+      "words": 2675
+    },
+    {
+      "ch": 20,
+      "title": "The Feast of Forgetting",
+      "words": 3100
+    },
+    {
+      "ch": 21,
+      "title": "The Ward Awakens",
+      "words": 3320
+    },
+    {
+      "ch": 22,
+      "title": "Choice of Legacy",
+      "words": 2850
+    },
+    {
+      "ch": 23,
+      "title": "The House Stands",
+      "words": 2980
+    },
+    {
+      "ch": 24,
+      "title": "Echoes in the Stone",
+      "words": 2755
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of Silas, detailing the strange occurrences he witnessed in the years before the Lykos family arrived, framed as entries in his factor's ledger.",
+      "Create a folk tale told by the Weng'lit people about 'P'tukquak' (the place where the rock listens), explaining the origin of the stain/ward in the foundation.",
+      "Draft the lost letters from the deceased cousin who originally purchased the land, revealing what he truly knew or suspected about the headland.",
+      "Write a scene where Eleni attempts to translate the geometric stain using her classical knowledge, accidentally activating a fragment of its memory."
+    ],
+    "technical": [
+      "Build a 'Memory Map' of the headland: an interactive website that layers the Greek family's perceptions, the Weng'lit stories, and the geological/archaeological reality of the site.",
+      "Create a generative art piece that uses the described geometric 'ward' pattern as a seed algorithm, visually representing the growth of memory and hauntings described in the novel."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Daphne du Maurier",
+      "N.K. Jemisin",
+      "Mary Shelley",
+      "Thucydides"
+    ]
+  },
+  "cover_prompt": "A fallen Greek patriarch stands rigid, his hand pressed against the cold, veined marble of a newly laid foundation block, from which spectral, ancient hands of indigenous stone emerge to grasp his wrist in a silent, arresting warning. The scene is set at dusk on a raw coastal construction site, where the skeletal beams of a neo-classical mansion clash against the enduring, monolithic ruins of a much older temple; scattered tools, modern blueprints lifted by the wind, and weathered ancestral portraits leaning against crates speak of displacement and arrogant imposition. In the atmospheric style of a classical gothic painting by Ivan Aivazovsky merged with the haunting, textured realism of Anselm Kiefer, capturing both maritime gloom and the weight of history in material. Book cover framing, centered and monumental composition viewed from a low, dramatic angle looking up at the conflicted man against the stormy sky. Chiaroscuro lighting with a stark contrast between the warm, dying light of a colonial lantern and the cold, ethereal bioluminescence emanating from the ancient stones, using a palette of deep granite grays, Aegean sea greens, tarnished gold, and ghostly cyan. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
