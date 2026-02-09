@@ -1,4 +1,6 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The sea was the colour of a day-old bruise, and it spat the Demeter onto the stones of the New World with a final, contemptuous heave. Eleni stood on the splintered deck, her fingers curled around the salt-rimed rail, and watched the men of Port Sebastian swarm the vessel like ants on a carcass. They moved with a purpose that felt alien after seventy days of water and sky and the slow, sickening roll of the hull. The air did not smell of brine and rot here, but of pine resin and wet earth and something else, something cold and green that caught in the back of the throat.
 
@@ -100,7 +102,9 @@ But as she lay beside her aunt, listening to the monstrous anthem of the storm a
 
 And she knew, with a cold certainty that settled in her bones, that whatever it was meant to do, it had failed.
 
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 Dawn did not break so much as seep into the foundation, a slow, grey dilution of the dark. The wind had died, leaving behind a silence so profound Eleni could hear the drip of condensation from the planks overhead and the distant, rhythmic crush of the sea. Thalia still slept, exhaustion holding her under. Eleni dressed quietly, in a practical wool dress the colour of slate, and climbed the steps out of their sunken world.
 
@@ -236,7 +240,9 @@ Something drawing water. Or something emerging from it.
 
 She did not go to look.
 
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 The Pierce men arrived at first light: Daniel, his two older brothers—stolid, quiet replicas of their father—and Elias Pierce himself. Elias was a bull of a man, with a beard like charred hemp and hands that could span a granite block. He surveyed the foundation with a grunt, shook Silas’s hand, and nodded once to Eleni.
 
@@ -369,11 +375,13 @@ Slap.
 
 In perfect time with the whispering stone.
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The forest beyond the headland was not like the woods of Port Sebastian. Those had been a green, breathing wall, but a wall that knew the bite of an axe and the tread of a boot. This forest was a different kind of memory. It was the colour of deep water and old blood, a tapestry of black spruce and pine that swallowed the dawn. The trees grew close, their trunks sheathed in a fur of damp moss, and their branches wove a ceiling that turned the world beneath into a twilit vault. The air did not move. It hung, thick with the scent of decaying needles and the cold, mineral tang of the granite bones beneath their feet.
 
@@ -547,11 +555,13 @@ It was the sound of stone grinding on stone, deep within the earth, moving towar
 
 And from the satchel, a faint, phosphorescent glow began to seep through the cracked leather, painting her hands in a sickly, remembering light.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The hum in the stone was a living thing. It climbed the ladder of her spine, tuned her marrow to a frequency of waiting. The satchel in her hand was a cold, dead weight, yet the light that bled from its seams was warm, a fungal, feverish green that pulsed in time with the monolith’s deep-throated song. It painted the smooth path, the looming doorframe, Silas’s grim profile in a remembering light—the light of sunken things, of depths where no sun reached.
 
@@ -755,11 +765,13 @@ But as they vanished into the treeline, heading for the hidden cove and their bo
 
 In her pocket, the cracked lens of her father’s spectacles pressed against her leg. And from the direction of the monolith, now miles behind them but carried on the wind, a new sound began—a low, resonant, and unmistakably searching pulse, like the slow, angry beat of a stone heart.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The cove was a gash of shadow in the cliff face, a secret kept by the sea. The Kestrel, their sloop, rocked in the gentle swell like a cradle, her lines creaking a welcome that felt like a lie. Eleni’s boots sank into the damp shingle as they stumbled from the treeline, the world still vibrating with the memory of the monolith’s final, grinding sigh. The air here was different from the clearing; it was the air of before, of salt and damp wool and tar, but it tasted thin, insubstantial, as if the real atmosphere had been left behind with that closing door.
 
@@ -869,11 +881,13 @@ Outside, in the suffocating mist, the low, resonant pulse of the monolith echoed
 
 It had found them.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The kill floor was not a place of blood, but of quiet. It was the silence of roots tightening, of vines knitting a cage. The thorn-puppets advanced with a sound like a briar patch thinking, a dry, clicking rustle. Their bodies were cages of woven witch-hazel and dogwood, hinged with knuckles of yellow bone, and inside each, something dark and seed-like pulsed with a borrowed life. They moved not with the jerk of strings, but with the awful, fluid patience of growth.
 
@@ -928,8 +942,7 @@ She did not stop. She used the bundle like a battering ram, wrapped in its canva
 She landed in a crouch on the spongy earth outside, the mist swallowing her instantly. Behind her, from inside the cabin, came the sounds of struggle—Silas’s curses, the dry crack of breaking puppets, a guttural cry that might have been Jonah.
 
 She had chosen direction. She had chosen to run. But not alone. She was running toward something. The pulse was a compass in her hands, a lodestone pulling her into the heart of the green, wet dark.
-
-The forest had a different voice when you were prey.
+  - The forest had a different voice when you were prey.
 
 Before, it had been a watchful, oppressive silence. Now, it spoke. The drip of water from a cedar bough was the click of a mandible. The sigh of wind in the high pines was a long, drawn-in breath. Every rustle in the salal was a footfall just out of sight.
 
@@ -988,8 +1001,7 @@ Eleni didn’t wait. She ran past the staggering woman, past Jonah. He fell in b
 They ran together, a coordinated flight now. When the clicking resumed, closer, angrier, Jonah would veer off and bring the hatchet down on a thick, running root, or a dense patch of mycelium-covered earth. Each time, the forest would shudder, and the pursuit would stutter. But each time, the backlash was worse. Branches would lash down. Burrs would fly like shrapnel. The land was waking up to the specific, irritating pain of them.
 
 They were a splinter, being worked out with increasing violence.
-
-The trees began to change. The cedars and hemlocks grew more massive, their trunks so vast that five men could not have circled them. Their bark was seamed with deep, vertical fissures that looked like stone, not wood. The undergrowth fell away, leaving a floor of deep, silent moss and colossal, skeletal ferns. The mist here was not white, but carried a faint, phosphorescent green glow, like light filtered through a million emerald leaves.
+  - The trees began to change. The cedars and hemlocks grew more massive, their trunks so vast that five men could not have circled them. Their bark was seamed with deep, vertical fissures that looked like stone, not wood. The undergrowth fell away, leaving a floor of deep, silent moss and colossal, skeletal ferns. The mist here was not white, but carried a faint, phosphorescent green glow, like light filtered through a million emerald leaves.
 
 The air hummed. It was in Eleni’s teeth, in the cavity of her chest. The bundle in her arms was almost hot now, its pulse a steady, demanding throb that synced perfectly with the deep pulse that shook the ground.
 
@@ -1105,11 +1117,13 @@ And the land, wounded and furious, was now awake in a new way. It was no longer 
 
 It was a power that had been insulted. And it knew her name.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The cedar’s silence was a lie. It was the quiet of a breath held, a fist clenched behind a back. Eleni felt it in the grain of the wood against her skull, in the tremor that passed up from the roots through the frozen earth. The land was not still. It was gathering.
 
@@ -1267,11 +1281,13 @@ And as they walked toward the settlement, the first of the ordinary, grey-feathe
 
 Then it flew away, toward Port Sebastian.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The road to Port Sebastian was a wound in the forest’s side, a raw, muddy gash that wept even in the brittle sunlight. Eleni walked it with the silence of the trees coiled in her chest, a cold, green weight. Jonah’s footsteps were a steady, human counterpoint behind her, but they felt distant, like sounds heard from underwater. The ordinary world did not rush to meet her; it seeped back in through the edges of her perception. The smell of turned earth from a half-cleared field. The distant, flat crack of an axe. The taste of woodsmoke, thin and greasy on the air. It was all smaller than she remembered. Crouched.
 
@@ -1304,8 +1320,7 @@ Thalia’s knuckles whitened further. She understood. The old stories she whispe
 “I’ve seen a piece of it,” he said, his voice rough. “It’s… growing.”
 
 Thalia closed her eyes for a long moment. When she opened them, they were resigned, and terribly sad. “Come inside. The kettle’s singing. You can tell me what you’ve planted.”
-
-The house was a cave of familiar shadows and unfamiliar quiet. The fire in the hearth spat and muttered, painting their faces in orange and black. Eleni sat at the scrubbed table, her green-stained hands resting on the pale wood like an accusation. Jonah stood by the door, a sentinel.
+  - The house was a cave of familiar shadows and unfamiliar quiet. The fire in the hearth spat and muttered, painting their faces in orange and black. Eleni sat at the scrubbed table, her green-stained hands resting on the pale wood like an accusation. Jonah stood by the door, a sentinel.
 
 Thalia listened. She poured bitter tea and listened as Eleni spoke in a flat, clean voice, devoid of ornament. She told of the monolith, the grinding song, the choice. She told of the seed of silence, of the shaping, of the offering. She did not speak of fear, or triumph. She stated facts. Facts have roots.
 
@@ -1332,8 +1347,7 @@ Thalia’s smile was a thin, sorrowful curve. “Men like Miller don’t want qu
 “What must I say?”
 
 “The truth,” Thalia said. “It is the only thing the green has left you. Speak it. Let it root in their minds, if it can.”
-
-The council hall was the largest building in Port Sebastian, smelling of sawdust, wet wool, and male ambition. The men were already assembled when Eleni entered, Jonah a half-step behind. Miller sat at the head of the rough-hewn table, his bulk solid and impatient. The others—farmers, the shipwright, the trader Caldwell—were arranged like satellites, their faces a gallery of scepticism and guarded hope.
+  - The council hall was the largest building in Port Sebastian, smelling of sawdust, wet wool, and male ambition. The men were already assembled when Eleni entered, Jonah a half-step behind. Miller sat at the head of the rough-hewn table, his bulk solid and impatient. The others—farmers, the shipwright, the trader Caldwell—were arranged like satellites, their faces a gallery of scepticism and guarded hope.
 
 Miller did not rise. “Miss Valois. Jonah. We heard the… disturbance cease. We assume you were the cause.”
 
@@ -1380,8 +1394,7 @@ She had shared the elixir. It was a bitter, clarifying draught. It did not heal 
 Eleni looked out the small, grimy window, toward the waiting trees. “To remember. And to remind you.”
 
 She turned and left the hall, the weight of their stares on her back. Jonah followed. No one tried to stop them.
-
-The new normal was not proclaimed. It settled, like a fine layer of dust, or pollen.
+  - The new normal was not proclaimed. It settled, like a fine layer of dust, or pollen.
 
 Eleni did not move back into the world of nets and washing and market gossip. She moved through it, but she was apart. A space cleared around her, not of fear, but of a kind of unconscious recognition. The women at the well would fall silent as she approached, then offer a nod, not of friendship, but of acknowledgement. The children would stare, wide-eyed, at her hands, but they did not run. They sensed the power, ancient and vegetal, that clung to her.
 
@@ -1398,8 +1411,7 @@ One evening, a week after the return, Eleni found a basket on their step. It con
 “It was already begun,” Eleni replied. She broke the bread. It was good.
 
 That night, she dreamed not of grinding stone, but of roots. Deep, spreading, silent roots weaving through the dark soil beneath Port Sebastian, gently cradling the foundation stones, cording themselves around the cellar walls. Not to break, but to hold. To remember where everything was placed.
-
-The hook for the next chapter came on a morning sharp with frost.
+  - The hook for the next chapter came on a morning sharp with frost.
 
 Eleni was at the forest’s edge, watching her breath plume in the air. The settlement was waking behind her, sounds still soft and separate: a door creak, a single axe-blow, the low of a cow.
 
@@ -1421,11 +1433,13 @@ The new normal had just cracked open. The agreement was not an end. It was a fir
 
 The land was speaking. It was starting to use their own words. And she was the only one who knew how to listen for what it really meant.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The victory tasted of pine needles and cold iron. It sat in the mouth, not sweet, but medicinal. For a week, the settlement of Port Sebastian had moved through its routines with a new, tentative ease. The cellar walls no longer wept with unexplained damp. The milk did not sour overnight. The deep, groaning complaint from the forest’s edge had subsided into a watchful silence. The men spoke of a corner turned, of a wilderness finally acknowledging the rightful order of things—of axe and plough and claim. Eleni heard them in the trading post, their voices buoyant with a relief that bordered on boasting. They believed a treaty had been signed in the language of roots and stone. They did not understand it had only been a comma.
 
@@ -1444,8 +1458,7 @@ Hargrave shook his head, a sharp, bird-like motion. “No. The bed is damp. The 
 The question hung in the cabin, mingling with the steam from the kettle. It was the first time one of them had asked such a thing directly, not as folklore, but as a practical inquiry into a broken mechanism. The land’s recalibration was not a seamless adjustment. It had created a vacuum, a dislocation. Some other small, vital thing had been sacrificed to feed the new, silent roots under the settlement.
 
 This was the lingering consequence. Not an attack, but a withdrawal. A favour with a hidden price, presented not on a battlefield, but in a dry streambed.
-
-Two days later, Captain Rourke summoned her. Not to the longhouse, but to the Demeter, still beached on the stones, a skeletal hulk being picked clean for usable timber and iron. He stood on what remained of the quarterdeck, a ledger open in his hands, but his gaze was on the treeline.
+  - Two days later, Captain Rourke summoned her. Not to the longhouse, but to the Demeter, still beached on the stones, a skeletal hulk being picked clean for usable timber and iron. He stood on what remained of the quarterdeck, a ledger open in his hands, but his gaze was on the treeline.
 
 “Hargrave’s stream,” he said, without preamble. His voice had lost its performative boom; here, with the corpse of his ship, it was flat, factual. “Then the Millers’ well. Down a foot since Sunday. No explanation.”
 
@@ -1468,8 +1481,7 @@ The silence between them was filled with the distant shouts of men and the etern
 “The land was generous,” Rourke said, the words bitter. “It gave them everything they asked for. And in return, it asked for their memory. Their story. It folded them into its own.” He looked at Eleni directly now. “That was the hidden cost she revealed. Our ‘victory’ last month. The peace we bought. What did we use for currency? What part of ourselves did we promise without knowing?”
 
 The reward for surviving was a deeper, more intimate threat. Not crushing roots, but a gentle, inexorable assimilation. The land wasn’t just learning their shanties. It was learning them. And tuition had come due.
-
-Eleni found Thalia in the root cellar, her hands resting on the cool, earthen wall. It was dry now. Stable.
+  - Eleni found Thalia in the root cellar, her hands resting on the cool, earthen wall. It was dry now. Stable.
 
 “You told him,” Eleni said, her voice echoing slightly in the dim space.
 
@@ -1492,8 +1504,7 @@ Thalia blinked, the slow patience in her gaze flickering with something human—
 “The bird didn’t just repeat a tune. It understood it was a signal, a call. It used it to get my attention, to point.” Eleni’s mind raced, the cold wire of the memory pulling taut. “The hills. Where it flew. That’s not a place of assimilation. That’s a place of… something else. Older trees, you said. Sharp rock. A different kind of memory.” She took a step forward, her voice low, urgent. “What if that’s not the wilderness’s heart? What if that’s its mind? The part that thinks, that strategizes? The deep woods here, they feel, they remember. But the hills… they reason.”
 
 The choice was made. Not integration, not defiance. Investigation. A dangerous, direct parley with the intellect of this place.
-
-She went to Rourke with a request, not for men or weapons, but for time, and for a thing he would consider worthless.
+  - She went to Rourke with a request, not for men or weapons, but for time, and for a thing he would consider worthless.
 
 “The hills,” she said. “I’m going to the tree line at their base. Not to explore, just to… listen.”
 
@@ -1535,11 +1546,13 @@ It was the translator.
 
 The land’s speaking mind had sent an emissary. And it had just offered her the first true syllable of its own language. The conversation was no longer between invader and invaded. It was between two intelligences, perched on a rocky edge, with the fate of a settlement—and perhaps a species—hanging on the next word.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The stone of the New World was not like the stone of the cliffs back home. That had been limestone, soft and willing to be shaped. This was a flinty, granitic thing, a stone that seemed to swallow the heat of the day and exhale a deeper cold at night. Eleni knelt in the dirt at the edge of the settlement’s graveyard, her hands pressing a fist-sized rock into the crumbling earth at the base of a wooden marker. The marker was for the carpenter, Janus, who had died of the lung-fever in the first month. The rock was to shore up the soil, to keep the post from listing further into the mud. It was a small, stupid task. It felt like the only true thing left to do.
 
@@ -1578,8 +1591,7 @@ Thalia’s hand, dry and light as a birch leaf, settled on top of Eleni’s, sti
 “Yes,” Thalia said, simply. “And it is you. I heard the change in you when you returned from the woods that first time. Your voice had a new silence in it. Now it has a new sound.” She stood, a slow unfolding. “Be careful what you promise it. We are a people built on broken promises. The land will know.”
 
 She walked back toward the huts, a grey wraith against the green. Eleni remained, the cold of the earth seeping through her skirts. The rock she had placed held the post upright. It was a small, stupid truth. She would start there.
-
-The communal storehouse was a low, draughty building made from the Demeter’s deck planks, still bearing the scars of boot-heels and coiled rope. Inside, the air was thick with the smell of dried fish, souring grain, and the tang of the iron tools locked in a crate. Rourke’s kingdom of scarcity.
+  - The communal storehouse was a low, draughty building made from the Demeter’s deck planks, still bearing the scars of boot-heels and coiled rope. Inside, the air was thick with the smell of dried fish, souring grain, and the tang of the iron tools locked in a crate. Rourke’s kingdom of scarcity.
 
 He was there, as she knew he would be, at the rough-hewn table that served as his desk, his massive hands dwarfing the ledger. A single tallow candle guttered, painting his face in jumping streaks of light and profound shadow. He did not look up as she entered.
 
@@ -1620,8 +1632,7 @@ His eyes met hers in the gloom. “A practical word is still a word. Choose the 
 It was a warning, and an acknowledgment. He saw her. Not as a girl, not as a nuisance, but as a force with a new and uncertain alignment. She gave a single, slow nod, and stepped out into the afternoon.
 
 The cold air was a shock. She leaned against the rough plank wall, her heart beating a swift, steady rhythm against her ribs. It was not the frantic drum of fear from the rocky slope. It was the purposeful thud of a tool striking true. She had not repaired the millstone yet, but she had repaired, just slightly, the broken premise between her and the man who held the keys to the iron. It was a start.
-
-Peter was a reed-thin boy of fifteen, with intelligent eyes and hands that seemed to flutter until they found a task. He listened to her explanation of the pinning process, his head cocked like a bird’s. He asked two questions about the angle of the drill-holes, and she knew Rourke was right—he was wasted on hauling water.
+  - Peter was a reed-thin boy of fifteen, with intelligent eyes and hands that seemed to flutter until they found a task. He listened to her explanation of the pinning process, his head cocked like a bird’s. He asked two questions about the angle of the drill-holes, and she knew Rourke was right—he was wasted on hauling water.
 
 They worked for two days at the edge of the wood, where a lightning-strike had scarred a trio of pines, drawing forth great amber tears of resin. The smell was sharp, cleansing, cutting through the ever-present damp. Peter proved deft with the collection, using a flat stick to scrape the sticky gum into a clay pot.
 
@@ -1652,8 +1663,7 @@ As the resin cooled, hard and clear as amber, she ran her hand over the seam. It
 Peter let out a low whistle of admiration. “You spoke its language,” he said.
 
 Eleni looked at her hands, stained with soot and resin. “We both did.”
-
-The millstone worked. Its grind was not the smooth, rhythmic hum of a proper stone, but a gritty, determined crunch that produced a coarse, dark flour. It was nourishment. The mood in the settlement lightened, a fraction. The bread that night tasted of pine smoke and resilience.
+  - The millstone worked. Its grind was not the smooth, rhythmic hum of a proper stone, but a gritty, determined crunch that produced a coarse, dark flour. It was nourishment. The mood in the settlement lightened, a fraction. The bread that night tasted of pine smoke and resilience.
 
 Eleni took her loaf and walked beyond the palisade, to a spot that looked toward the rocky ridge. She ate slowly, watching the last light bleed from the sky behind the granite. She was practicing the hum the Translator had given her, feeling it in her sinuses, trying to isolate its pitch.
 
@@ -1698,8 +1708,7 @@ He stared at her, his handsome face contorted with something uglier than hatred:
 “Perhaps,” Eleni said, turning back to look at the darkening ridge. “Or perhaps I’m the only one who isn’t. The land is speaking, Lysander. You can learn to listen, or you can become part of the silence it eventually swallows. Your choice.”
 
 She heard his breath, quick and shallow, behind her. Then the crunch of his retreating footsteps, hurried, stumbling. The old threat had re-emerged, and she had not fought it with fear or flight. She had disarmed it with a single, alien note. It was not victory. It was a demonstration of a new equilibrium.
-
-That night, in the hut she shared with Thalia, Eleni could not sleep. The encounter with Lysander played out against the memory of the silver eyes, the feel of the resin under her hands, the solidity of the repaired stone. Pieces, all of them. Fragments of a new lexicon.
+  - That night, in the hut she shared with Thalia, Eleni could not sleep. The encounter with Lysander played out against the memory of the silver eyes, the feel of the resin under her hands, the solidity of the repaired stone. Pieces, all of them. Fragments of a new lexicon.
 
 She rose, wrapped her shawl around her shoulders, and stepped outside. The settlement was asleep, a huddle of shadows under a sky dusted with cold, unfamiliar stars. She walked past the silent mill, her hand brushing the cool, resin-sealed stone. She walked past the palisade gate, nodding to the watchman—a man named Croft, who merely nodded back, accustomed now to her wanderings.
 
@@ -1733,11 +1742,13 @@ In the settlement behind her, a baby cried out in its sleep, a sharp, human soun
 
 The conversation had its second syllable. The work of a world had begun. And Eleni, standing on the line between two kinds of night, knew that the next word would have to be hers.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- CHAPTER 27
+CHAPTER 27
 
 The sea was the colour of a day-old bruise, and it took the Demeter back into its depths with a final, patient sigh. Eleni stood on the wet stones of the New World, her fingers curled not around a salt-rimed rail, but around the smooth, sun-warmed wood of a canoe’s prow. She watched the empty horizon where the ship had been, a dark speck swallowed by the grey expanse. The men of Port Sebastian—their men now, settlers no longer—had swarmed the vessel one last time, not like ants on a carcass, but like bees emptying a hive of its last, unwanted honey. They had stripped the old bones of iron nails, of spare canvas, of every usable splinter. They had taken what they needed to build, and left the ghost to the sea.
 
@@ -1754,8 +1765,7 @@ And Eleni. Eleni was the bridge.
 She turned from the sea. Her canoe was pulled up on the stones, laden with bundles of dried river-reeds. Up the gentle slope, Port Sebastian lay cradled in the curve of the land. The rough-hewn log cabins of the first year were still there, but now they were connected by covered walkways, their roofs thatched not with shipped-in straw, but with layered sheets of birch bark and reed. Smoke curled from central hearths, not from a dozen separate, wasteful fires. Beyond the cabins, fields lay fallow under a thin blanket of snow, stubbled with the stalks of the tall, hardy grain the land had taught them to cultivate. And further still, at the tree line, stood the lodges of the Kir’sha—the People of the Tall Pines. Not separate, not opposite. A part of the pattern.
 
 The work of a world had begun with a mirrored gesture on a frozen riverbank. It had continued, syllable by painful syllable.
-
-Scene 1
+  - Scene 1
 
 Eleni walked up from the shore, the familiar weight of her satchel—made of Kir’sha-tanned leather, stitched with Demeter-sail thread—thumping against her hip. She passed the communal storehouse, its door carved with the interlocking spirals of both peoples, a symbol of shared provision. A man named Jorah, once the ship’s most fearful cooper, was fitting a new stave into a barrel. He saw her and nodded, his hands never stopping their work. No bow, no formal address. Just a nod. A recognition of place.
 
@@ -1792,8 +1802,7 @@ She lit a lamp, the oil rendered from a fatty river-fish. The flame danced, cast
 The colonial aftermath was this daily, meticulous work of translation. It was the understanding that the violence of arrival could not be undone, only metabolized, transformed into a cautionary tale woven into the foundation of everything they built. The Kir’sha had not forgiven the axes, the fear, the initial, clumsy theft. They had, instead, offered a conditional peace, a practical coexistence. It was a colder, more realistic bond than friendship. It was a treaty written not on parchment, but in daily action, in shared resources, in learned boundaries. The lens was always there: in the way a Kir’sha hunter’s eyes would still grow distant when the old scars on certain pine trees were mentioned; in the way the settlers still jumped at a sudden cry from the forest, their hands twitching for weapons they no longer carried.
 
 Eleni ran her finger over the map, over the notation for the ‘river’s silent guides.’ They had learned. The hard way.
-
-Scene 2
+  - Scene 2
 
 The following morning, Eleni took Kaelen to the fishing pools. Lira, a Kir’sha woman with eyes the colour of shale and a laugh that sounded like water over stone, was already there, checking woven traps under the ice. She showed Kaelen the small, silver fish, pointing to the swollen bladder. The lesson was conducted in a mixture of Kir’sha, hand-signs, and the shared technical pidgin they had built. Eleni watched, intervening only when a concept stuck. This was the tangible impact. Not a grand victory, but the transfer of a skill that would make a better bow, which would bring more game, which would feed both settlements.
 
@@ -1804,8 +1813,7 @@ At the smithy, the last of the Demeter’s iron, shaped by a blacksmith now work
 In the healing hut, Thalia sat with Nala, the eldest of the Kir’sha healers. Before them, herbs were laid out on a broad leaf: yarrow from the settlers’ seed stock, a knobby root the Kir’sha called ‘bone-knitter.’ They were creating a new pharmacopoeia. Thalia would describe a symptom in English, Nala would offer a plant in Kir’sha, and Eleni, when called upon, would find the precise hinge of meaning. Last week, this collaboration had broken a fever that would have killed a child a year before.
 
 The impact was there. In the full storehouse. In the health of the people. In the games of the children. The colony was not a thriving metropolis. It was a fragile, hardy bloom in a crack of stone. But it was alive, and its life was a joint creation. The aftermath was not a static condition of guilt and ruin; it was an active, ongoing negotiation, a slow bending of two trajectories into one, shared path. The scar was still visible, but around it, new tissue grew, strong and interconnected.
-
-Scene 3
+  - Scene 3
 
 The news of the ship spread, a low vibration of anxiety through the settlement. It was discussed not in panicked councils, but in small, worried clusters. Old instincts surfaced: some spoke of hiding, others of preparing a defence. The Kir’sha scouts were sent to the coast to watch. They returned two days later with a report, delivered to Eleni and the informal council of elders from both peoples.
 
@@ -1824,8 +1832,7 @@ The challenge was an opportunity. An opportunity to break the cycle. To use the 
 There was debate. Fear was a powerful argument. But they looked around at what they had built, at the interwoven safety of their lives. They had learned the cost of the other way. The vote, though unspoken, was unanimous.
 
 They would not send warriors. They would send the Translator.
-
-Scene 4
+  - Scene 4
 
 Three days later, Eleni stood on a rocky overlook, looking down at the newcomers’ camp. The scene was a grotesque echo of Port Sebastian’s first days. Trees felled in a ring, the stumps pale and weeping sap. A defensive berm thrown up with no regard for the drainage of the land. The smell of unburied waste on the wind. Her heart ached with a profound, weary familiarity.
 
@@ -1857,11 +1864,13 @@ The conversation had its first syllable. The work of a world was never finished.
 
 She began to translate.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The first word was a stone dropped into a still, dark pool. Eleni watched the ripples of it move across the faces of the men. They did not understand the shape of it, this English that was not their English, this statement that was neither greeting nor challenge but a delineation, a drawing of a line they had not known was there. The captain’s face—creased leather over hard bone—did not soften. His knuckles on the axe were white.
 
@@ -1987,11 +1996,13 @@ The night deepened. In the forest, unseen, the Kithra watched the two fires. The
 
 The work of the world was never finished. And beneath the foreign stars, on the stone between the sea and the trees, the next word was being shaped not by a voice, but by the slow, patient turning of the earth towards dawn.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 Dawn came not as a colour, but as a temperature. The deep, marrow-cold of the stone seeped upwards, driving the thin warmth of sleep from their bones before the first grey light had touched the high canopy. Eleni woke to the ache of the unyielding ground and the sound of men stirring—not the weary, resigned movements of the ship, but the sharp, deliberate actions of creatures preparing to test a new element. The two fires were dead mounds of ash, their separation a black line on the pale stone.
 
@@ -2073,11 +2084,13 @@ And in the cold, silent heart of the woods, far from the shore, something else r
 
 The work of the world was never finished. Beneath the foreign stars, on the new-made wall between the sea and the trees, the next word was being shaped. But it was no longer being shaped by hands alone. It was being answered, from the deep, remembering dark, by a voice that had not spoken in a thousand turns of the earth. A voice that understood only one syntax: the grammar of silence, and the long, slow sentence of its breaking.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The wall was a fact. It stood in the grey dawn light not as a thing built, but as a thing that had always been, a dull, grey tooth erupting from the gum of the earth. Frost silvered its crest. The air around it tasted of mortar and damp stone and the cold, clean scent of a decision made irreversible. Captain Marcus stood before it, his ledger closed under his arm, and surveyed his work. It was a good line. It divided the world into two simple categories: within, and without. His, and other.
 
@@ -2096,10 +2109,7 @@ He turned from the wall and walked to the central fire, where the cook-pot simme
 “They read results. They see a line that cannot be crossed without cost. That is a universal text.”
 
 But in his ledger, Marcus had written a different analysis. Morale: brittle. Productivity on secondary tasks: acceptable. Reliance on central authority: increased. The wall is a fulcrum. It transfers their fear of the forest into dependence on the maker of the wall. He ate his gruel, each swallow a measured act of sustenance. The green stone, wrapped in oilcloth and hidden beneath his cot, was a quiet, persistent heat against his calf. A counter-weight. A secret advantage. He was the only gardener here who could see in the dark.
-
-  
-
-Eleni found Thalia by the stream that cut behind the compound, a stone’s throw from the new wall’s eastern end. Her aunt was kneeling on the bank, her hands submerged in the icy water, her eyes closed. Her lips moved, shaping silent words into the current.
+  - Eleni found Thalia by the stream that cut behind the compound, a stone’s throw from the new wall’s eastern end. Her aunt was kneeling on the bank, her hands submerged in the icy water, her eyes closed. Her lips moved, shaping silent words into the current.
 
 “What are you telling it?” Eleni asked, her voice low. The water’s chatter felt like a conspiracy.
 
@@ -2126,10 +2136,7 @@ Thalia’s face paled. “Does he know what it is?”
 “He knows it is power. He thinks it is a tool. A key to a lock.” Eleni swallowed. “The codex… it says such stones are not tools. They are invitations. They are tuning forks. They do not open doors. They attract the things that live on the other side of them.”
 
 For a long moment, the only sound was the gossip of the stream. Then Thalia released her. “Then the shouting is over. The conversation has begun. And he does not know he is speaking. He thinks he is giving orders.”
-
-  
-
-In the forest, the Kithra watched. They did not stand at the flower-line, but were woven into the shadows of the hemlocks and the ancient, bearded firs. Their bodies were still, their breath a faint mist in the chill. They were not one people, but a council of clans, drawn by the disturbance. The Wall-Clan, slender and grey as lichen, remembered the last time the stone-words had been spoken. The River-Clan, with their eyes the colour of wet slate, felt the new, harsh vibrations in the water-table. The Deep-Clan, who seldom left the root-tangles and the mushroom-lit caverns, had come because the earth itself had hummed a warning.
+  - In the forest, the Kithra watched. They did not stand at the flower-line, but were woven into the shadows of the hemlocks and the ancient, bearded firs. Their bodies were still, their breath a faint mist in the chill. They were not one people, but a council of clans, drawn by the disturbance. The Wall-Clan, slender and grey as lichen, remembered the last time the stone-words had been spoken. The River-Clan, with their eyes the colour of wet slate, felt the new, harsh vibrations in the water-table. The Deep-Clan, who seldom left the root-tangles and the mushroom-lit caverns, had come because the earth itself had hummed a warning.
 
 They communicated without sound. A tilt of a head. The slow blink of wide, dark eyes. The slight gesture of a hand, fingers fluttering like leaves in a downdraft.
 
@@ -2144,10 +2151,7 @@ Their consensus was a slow, settling weight, like snow on a branch.
 They would not touch the wall. They would not touch the stone. To do so would be to speak back in its own grating tongue. They were gardeners. They understood blight. Sometimes, a blighted limb must be allowed to wither, to draw the sickness into itself, so it may be cleanly removed. They would let the Hard-Sound Man’s resonance build. They would let the stone wake what it wished to wake. Their work was not to stop the storm, but to ensure the forest survived its passing.
 
 They melted back into the green, leaving only the watchful, empty stillness. But their retreat was not a surrender. It was the careful folding of a hand around a precious, final seed.
-
-  
-
-Marcus spent the day auditing. He walked the perimeter, inside his wall, and took stock. He inspected the stores: grain, salt meat, the dwindling supply of nails and iron stock. He reviewed the duty roster. He listened to the reports of the men—the game was scarcer, the fish in the stream seemed to swim deeper, the nights were colder than they ought to be. He noted it all in his ledger. Problems of supply and morale. Logistical equations.
+  - Marcus spent the day auditing. He walked the perimeter, inside his wall, and took stock. He inspected the stores: grain, salt meat, the dwindling supply of nails and iron stock. He reviewed the duty roster. He listened to the reports of the men—the game was scarcer, the fish in the stream seemed to swim deeper, the nights were colder than they ought to be. He noted it all in his ledger. Problems of supply and morale. Logistical equations.
 
 He did not note the quality of the silence. It had a thickness to it. The birdcalls were few, and seemed to come from a great distance. The wind did not sigh through the pines; it slid over them, frictionless and cold. The world felt muted, as if packed in wool.
 
@@ -2203,11 +2207,13 @@ She knew what it meant. The invitation had been accepted. The stone was not just
 
 The work of the world was never finished. It was a call and response. Captain Marcus, in his arrogance, had uttered a cry into the abyss. And from the abyss, from the deep, remembering dark that understood only the grammar of silence and the long, slow sentence of its breaking, something had finally cleared its throat.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The quiet that followed was not an absence, but a presence. It filled the spaces between the trees, thick as resin, heavy as the stone now resting on the Captain’s table. Eleni stood by her shelter, the echo of that single, shattering syllable still vibrating in the hollows of her teeth. It had not been a sound of this world—not of air and throat and tongue—but a fracture in the substance of the world itself. A punctuation. And the Kithra, those silent, watchful extensions of the forest’s will, had bowed to it.
 
@@ -2270,8 +2276,7 @@ She did not know what it meant. But she understood, with a clarity that chilled 
 She wrapped the acorn in a scrap of linen and hid it within the bundle of her mother’s loom. The symmetry was not lost on her: his stone, her seed. His dialogue conducted with sledgehammers and ledgers, hers beginning with a whisper and a stolen touch.
 
 She did not sleep. She sat in the dark, listening to the new quality of the quiet. It was no longer just listening. It was conversing.
-
-In his quarters, Marcus was indeed writing. The stain on his old plans was a continent of black on the parchment, a shape that suggested wings, or a gaping maw. He had turned the sheet over, refusing to be haunted by its ambiguity.
+  - In his quarters, Marcus was indeed writing. The stain on his old plans was a continent of black on the parchment, a shape that suggested wings, or a gaping maw. He had turned the sheet over, refusing to be haunted by its ambiguity.
 
 Subject: Acoustic Phenomena & Strategic Implications.
 
@@ -2314,8 +2319,7 @@ The sentinel nodded, a quick, nervous jerk of the head, and melted back into the
 Marcus remained in the doorway, a silhouette against the lamplight. He was not looking at the forest. He was looking at the neat rows of shelters, the stacked tools, the geometric perfection of his nascent order. His kingdom of right angles. The forest had spoken, and he had translated it into a security protocol. The conversation, for him, was already yielding practical dividends.
 
 He did not see the figure standing in the deep shadow between Eleni’s shelter and the next. It was tall, and it did not breathe. It watched him for a long moment, then turned its head—a slow, rustling movement—towards Eleni’s door. Then it was gone, not walking, but dissolving into the patterned dark like ink into blotting paper.
-
-The next morning arrived not with a sunrise, but with a slow, grey leaching of light into a mist that clung to the ground like a shroud. Sounds were muffled; the clang of the cook’s ladle against the cauldron, the cough of a labourer, the creak of the well-wheel—all were swallowed by the damp air. The world had been wrapped in wool.
+  - The next morning arrived not with a sunrise, but with a slow, grey leaching of light into a mist that clung to the ground like a shroud. Sounds were muffled; the clang of the cook’s ladle against the cauldron, the cough of a labourer, the creak of the well-wheel—all were swallowed by the damp air. The world had been wrapped in wool.
 
 Eleni moved through the routines of dawn with the acorn a secret weight in the pocket of her skirt. She fetched water, her fingers going numb on the rope. She accepted her portion of gruel, eating without tasting. The mist played tricks on the eyes, turning stumps into crouching forms and men into ghosts.
 
@@ -2445,11 +2449,13 @@ Eleni did not wait for the guards to come for her. She stepped out of her shelte
 
 The conversation was over. The trial had begun.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The walk from the shelter to the Captain’s quarters was a crossing of a new and silent geography. The compound, usually a hive of muttered curses and the scrape of tools, was a held breath. Men stood frozen at their tasks, their eyes not on Eleni, but on the open gate, on the space where the forest’s offering had been. They were watching the place where the world had cracked open and spoken. The air still held the scent of it—sap and crushed needles and the iron-rich smell of the soil that had clung to Davor’s boots—overlaying the familiar smells of sawdust and human sweat. It was a palimpsest of two worlds, one written hastily, violently, over the other.
 
@@ -2601,11 +2607,13 @@ The work of the world was call and response. He had called with a wall. They had
 
 She closed her fingers around the acorn, felt its latent architecture, and stepped forward, leaving the circle of lantern-light behind. The darkness did not swallow her. It parted, a courtesy extended to a newly appointed ambassador between two realms that were no longer at war, but in a state of profound, and utterly untranslatable, negotiation.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The path was not a path. It was the ghost of a path, a suggestion made by the faint, starved luminescence of a particular lichen on a particular sequence of stones. Eleni moved through the dark as if through a library of shadows, her hand unerringly finding the next cold, moss-velveted rock, her foot settling into the next root-wrought stair. The acorn was a second, slower heartbeat in her palm. The forest did not guide her so much as it permitted her passage, withdrawing a branch here, offering a firm patch of needle-strewn earth there. It was a courtesy, as the darkness parting had been a courtesy. She was a diplomatic entity, and this was the beginning of the negotiation.
 
@@ -2686,8 +2694,7 @@ She had thought herself an ambassador. She was a hyphen. She had thought the neg
 As she drifted into a sleep that was not quite sleep, but a deeper kind of listening, she felt it. A vibration through the roots, through the packed earth of the clearing. A distant, rhythmic thud. Not the closing of a gate.
 
 The driving of a stake.
-
-The dawn was not a colour, but a softening of frequencies. The deep hum of the oak modulated into a lighter, greener tone. Eleni awoke with the acorn still clenched in her fist. Aedon was waiting, holding a simple wooden bowl filled with water and a paste of ground nuts and bitter berries.
+  - The dawn was not a colour, but a softening of frequencies. The deep hum of the oak modulated into a lighter, greener tone. Eleni awoke with the acorn still clenched in her fist. Aedon was waiting, holding a simple wooden bowl filled with water and a paste of ground nuts and bitter berries.
 
 “Eat,” he said. “The work is physical.”
 
@@ -2783,11 +2790,13 @@ The false victory of her exile had shattered.
 The false victory of the iced grove was already hardening into a new, more dangerous pretext.
 In the distance, the shouts ceased. A new, more deliberate sound began: the methodical, metallic shink-shink-shink of blades being sharpened.
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The sharpening was a liturgy. It was not the chaotic, angry sound of the axe in the grove. This was a chorus of deliberate, rhythmic friction, a hundred whetstones drawing confession from steel. It sang from the direction of the Magistrate’s compound, a low, insectile hum that permeated the damp afternoon air, more felt in the teeth than heard by the ear. It was the colony translating Kaela’s prediction into its first, concrete clause.
 
@@ -2903,11 +2912,13 @@ The hook for the next chapter was not a doubt, or a reprieve. It was the sight o
 
 Their beautiful, confounding sentence had been punctuated. The Magistrate’s response was now in the passive voice, being drafted in pencil on a fresh, clean page. The collision course was plotted. The point of impact had coordinates.
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The scout’s pencil was a sliver of bone against the grey bark of the pine he leaned upon. He did not hide. He was a function of the landscape, a notation. His presence was not a threat; it was a conclusion already inked, merely awaiting transfer to the official ledger. Eleni watched him, the cold pot of her father’s ashes a familiar weight against her ribs. The performance was over, and the critic had arrived not to applaud, but to measure the stage for demolition.
 
@@ -3001,11 +3012,13 @@ He had not seen them. But he had seen the possibility of them. In his clean, log
 
 The hook for the next chapter was not a sound, or a charge. It was the silent, terrible convergence of logic and landscape. The scout’s pointed finger, and the two soldiers who turned, hefting their axes not as tools, but as weapons, and began to walk with flat, purposeful strides directly toward the throat of stone where Eleni, Thalia, and the others held their breath in the perfect, fragile darkness. The map was gone. The hiding places were being systematically deleted from the margin, one by one.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The scout’s finger was a needle, and the two soldiers were the thread drawn through the landscape, stitching the wild margin into the ordered fabric of the compound. They moved without haste. Their axes, moments ago tools for dismembering a tree, were now held at the ready, blades catching the low morning sun in dull, metallic winks. The distance between the raw stump and the throat of stone was not great. It was a stretch of fern, a scatter of shale, a fallen birch silvered with rot. It was a distance that could be measured in heartbeats, now grown loud and ragged in the dark.
 
@@ -3139,11 +3152,13 @@ Outside, a guard walked past the barracks, his boots crunching on the gravel. A 
 
 The hook for the next chapter was not an action, but a reorientation. The fight was no longer for the sanctuary, for the margin. That was gone. The fight was now for the narrative itself. It was to become a secret kept from the ledger, a story hidden in the blind spots of the map, a memory stored in a pool of black water that might, if the land’s old defences held, prove deep enough to drown a scout’s clean, logical light. They were inside the machine now. Their resistance would be a silent corrosion, a false number in an account, a remembered truth whispered on a straw pallet, waiting for the land itself to rise from its own green memory and reject the ink.
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The silence after Thalia’s words was not empty. It was a vessel, filling with the cold seep of the night, the distant, rhythmic cough of a sentry, the slow exhalation of the compound itself—a beast of cut timber and cleared earth sleeping under a starless sky. Eleni’s hand remained atop her aunt’s, a point of warmth against the pervasive chill of the barracks. The pact was made. The reorientation was complete. They were no longer refugees hiding in the margins of a new text. They were an error in the ink, a deliberate flaw in the calculation, a memory lodged in the machine’s grinding gears.
 
@@ -3197,17 +3212,17 @@ The opportunity came three days later. A morning of flat, metallic light. Eleni 
 
 It was a beautiful, terrifying thing. The lines were clean and confident, inked in a precise, black hand. The compound was a perfect rectangle. The felled perimeter was a neat, hatched border. Roads became straight arrows pointing into a wilderness that was rendered as a vague, swirling texture of green wash, labelled Terra Incognita Silvae—Unknown Forest Land.
 
-But it was the notations that held her. In the margins, in a finer, more hurried script, were the cartographer’s private doubts. By the eastern tree-line, he had written: “Vapor crepuscularis—irritat oculos et fauces.” (Dusk vapour—irritates eyes and throat.) Near a sketched-in creek, he noted: “Aqua cursum mutat—non constans.” (Water changes course—not constant.)
+But it was the notations that held her. In the margins, in a finer, more hurried script, were the cartographer’s private doubts. By the eastern tree-line, he had written: “Vapor crepuscularis—irritat oculos et fauces.” (Dusk vapour—irritates eyes and throat.) Near a sketched-in creek, he noted: “Aqua cursum mutat—non constans.*” (Water changes course—not constant.)
 
 He was mapping the resistance. He was noting the land’s refusal to be read as empty space.
 
 Her heart hammered against her ribs. This was their opening. The overseer was outside, barking at a work detail. She had minutes. Moving with the silent efficiency she used in the storehouse, she cleaned around the table. As she dusted the edge near the Vapor crepuscularis note, her sleeve, damp from her wash-water, brushed the vellum. Not enough to smear, just enough to leave the faintest, almost imperceptible bloom on the paper, right over the notation. A flaw, a natural flaw, in his perfect record.
 
-Then, her eyes fell on a small, leather-bound journal beside the map. A private log. The temptation was a physical ache. She opened it. The entries were clinical, but a strain of frustration ran through them like a crack in ice. “The substrate is unreliable… local reports of ‘bad air’ and ‘shifting ground’ persist… the classical models do not account for this persistent… animosity.”
+Then, her eyes fell on a small, leather-bound journal beside the map. A private log. The temptation was a physical ache. She opened it. The entries were clinical, but a strain of frustration ran through them like a crack in ice. “The substrate is unreliable… local reports of ‘bad air’ and ‘shifting ground’ persist… the classical models do not account for this persistent… animosity.”*
 
 The word struck her like a bell. Animosity. He felt it. He had given it a name.
 
-She turned a page. His entry from the previous day was brief. “Subject L (woodsman) displays atypical knowledge of grain. Speaks of ‘heartwood’ and ‘sapwood’ as if moral qualities. Suggests the pine felled near the eastern blight wept an unusual amount of resin, ‘as if fighting.’ Superstition, but the correlation with the vapour zone is noted. The land’s defence, or a narrative imposed by the conquered?”
+She turned a page. His entry from the previous day was brief. “Subject L (woodsman) displays atypical knowledge of grain. Speaks of ‘heartwood’ and ‘sapwood’ as if moral qualities. Suggests the pine felled near the eastern blight wept an unusual amount of resin, ‘as if fighting.’ Superstition, but the correlation with the vapour zone is noted. The land’s defence, or a narrative imposed by the conquered?”*
 
 He was listening to Leo. He was entertaining the idea.
 
@@ -3237,11 +3252,11 @@ It was an order, but it was also an invitation into the engine of conquest. He w
 
 She bowed her head. “Yes, sir.”
 
-That evening, in the smoky light of the surveyor’s tent, Eleni began her corruption. The cartographer, whose name was Alaric, dictated his notes. She wrote them in the clean, ruled columns of his master ledger. “Sample from eastern vapour zone: moss exhibits atypical bioluminescence when disturbed… Soil pH inconsistent, varying wildly over a span of ten paces… Sound attenuation beyond the felled perimeter is 70% greater than modelled.”
+That evening, in the smoky light of the surveyor’s tent, Eleni began her corruption. The cartographer, whose name was Alaric, dictated his notes. She wrote them in the clean, ruled columns of his master ledger. “Sample from eastern vapour zone: moss exhibits atypical bioluminescence when disturbed… Soil pH inconsistent, varying wildly over a span of ten paces… Sound attenuation beyond the felled perimeter is 70% greater than modelled.”*
 
 As she wrote, she performed her own, silent translation. The land is watching. The land is inconsistent. The land swallows sound.
 
-When he asked for the women’s stories, she gave them to him—but she shaped them. She spoke of the “weeping” pines not as a curiosity, but as a known omen from the old country, a sign the earth was grieving. She mentioned, offhand, that Thalia had dreamt of a “black pool that swallowed lanterns” the very night before the scout disappeared. She watched as Alaric recorded these not as fancies, but as “local meteorological/folkloric correlations.”
+When he asked for the women’s stories, she gave them to him—but she shaped them. She spoke of the “weeping” pines not as a curiosity, but as a known omen from the old country, a sign the earth was grieving. She mentioned, offhand, that Thalia had dreamt of a “black pool that swallowed lanterns” the very night before the scout disappeared. She watched as Alaric recorded these not as fancies, but as “local meteorological/folkloric correlations.”*
 
 She was feeding the narrative of resistance directly into the official record. She was helping him build a map that contained, embedded in its own logic, the seeds of its own disbelief. Every notation of strange biology or odd geology, now paired with a story, became not just a fact, but a question. A question the compound’s clean, logical light could not answer.
 
@@ -3265,11 +3280,13 @@ He did not reprimand her. He simply stared into the lamplight, a man caught betw
 
 The hook for the next chapter was a collision. The Commander’s demand for a simple map would meet the cartographer’s complex, story-haunted one. The machine would turn on its own translator. And Eleni, the silent scribe, would have to decide whether to let the fracture widen, or to try to mend it—to protect the man who was, in his own way, becoming the land’s most meticulous witness. The corrosion was in the ledger now. The narrative was written in the margins. And the poet in the earth was preparing to speak its next, unforgiving line.
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The silence in the cartographer’s hut was not an absence, but a held breath. It was the pause between the lightning and the thunder, a pressure that made the lamplight seem to waver. Alaric’s map lay between them on the table, that bruise of annotations spreading like mycelium through the strict black grid of the compound. He had not moved for an hour. Eleni stood by the cold stove, her fingers stained with ink, watching the conflict ossify in the line of his shoulders. He was a bridge cracking under a weight it was never meant to bear.
 
@@ -3480,11 +3497,13 @@ Item: The ash in the pot.
 
 The hook for the final chapter was not a collision, but a convergence. The land’s audit would reach its final column. The machine would execute its forecast. And the silent scribe, keeper of the true account, would step from the margins to present the bill. The aftermath was not coming. It was here. And she was its chronicler.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The forest was the colour of a forgotten bruise, a deep, weathered purple-black where the last of the winter sun could not reach. It did not spit Eleni out. It absorbed her. She walked from the compound at the hour when the shift-horns were silent, carrying nothing but the sealed clay pot, the commissary stub of a pencil, and the map folded now to the softness of linen against her skin. The air did not smell of iron and sawdust and boiled turnip here, but of cold stone and sleeping sap and something else, something old and patient that lay beneath the green scent like the bass note of a bell. It caught in the back of the throat, this silence. It was thicker than fog.
 
