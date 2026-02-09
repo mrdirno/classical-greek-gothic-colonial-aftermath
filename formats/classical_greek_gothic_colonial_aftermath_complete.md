@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The sea was the colour of a day-old bruise, and it spat the *Demeter* onto the stones of the New World with a final, contemptuous heave. Eleni stood on the splintered deck, her fingers curled around the salt-rimed rail, and watched the men of Port Sebastian swarm the vessel like ants on a carcass. They moved with a purpose that felt alien after seventy days of water and sky and the slow, sickening roll of the hull. The air did not smell of brine and rot here, but of pine resin and wet earth and something else, something cold and green that caught in the back of the throat.
@@ -99,6 +101,8 @@ Eleni banked the fire. “It is the wind, *Theía*. Only the wind. This is a new
 But as she lay beside her aunt, listening to the monstrous anthem of the storm and the subsonic groan of the cliffs beneath them, she thought of the stain on the stone. A ward. To keep something in, or to keep something out?
 
 And she knew, with a cold certainty that settled in her bones, that whatever it was meant to do, it had failed.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -235,6 +239,8 @@ A slow, rhythmic cadence. Not the wind. Not the sea.
 Something drawing water. Or something emerging from it.
 
 She did not go to look.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
